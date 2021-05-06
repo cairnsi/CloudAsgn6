@@ -1,0 +1,5 @@
+client id
+916034912784-vmi2ekt46gp1bac0svv4t3acj2rnn8oj.apps.googleusercontent.com
+
+secret
+81GIJ6ztg99K7LzYAsaX_nxo
